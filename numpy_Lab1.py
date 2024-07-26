@@ -33,12 +33,7 @@ print("An array of 10 five :",ar)
 # write a numpy program to create a 3x3 matrix with values 
 # ranging from 2 to 10
 
-
-
-# Create a 1D array with values ranging from 2 to 10 (inclusive)
 arr = np.arange(2, 11)
-
-# Reshape the array into a 3x3 matrix
 matrix = arr.reshape(3, 3)
 
 print("3x3 Matrix with values ranging from 2 to 10:")
