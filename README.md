@@ -19,6 +19,7 @@ Tools:
 - PowerBI
 - SQL
 - CSV data
+  
 LINK- [Sales analytics dashboard](SalesData_Analysis.pdf)     
 
 # Olympics Data Analysis
